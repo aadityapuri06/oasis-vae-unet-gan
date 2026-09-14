@@ -1,0 +1,4 @@
+Background: 0.9984 (PASS)
+CSF: 0.9392 (PASS)
+Gray Matter: 0.9473 (PASS)
+White Matter: 0.9707 (PASS)
